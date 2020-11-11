@@ -1,0 +1,500 @@
+    4  http-server --config
+    5  http-server -p port 6000
+    6  http-server -p 6000
+    7  http-server
+    8  ll
+    9  ng new main-dev-app
+   10  ll
+   11  cd main-dev-app/
+   12  ll
+   13  git s
+   14  git lg
+   15  ng serve
+   16  ng serve --host 0.0.0.0
+   17  yarn i
+   18  yarn install
+   19  npm start
+   20  npm i
+   21  ng serve
+   22  pwd
+   23  ll
+   24  git init
+   25  ll
+   26  git s
+   27  git add .
+   28  git s
+   29  git lg
+   30  git commit -m "primer commit hecho en el work 20200624_0849"
+   31  git s
+   32  git lg
+   33  git s
+   34  git lg
+   35  git diff nbproject/project.properties
+   36  git add .
+   37  git commit -m "refactorice a como estaba originalmente el proyecto hasta 28/02/2020"
+   38  git s
+   39  git status
+   40  git log
+   41  git status
+   42  git s
+   43  git s
+   44  git add .
+   45  git lg
+   46  vim .gitignore 
+   47  git s
+   48  git add .
+   49  git s
+   50  git commit -m "gitignore historial y documentos"
+   51  git s
+   52  git remote add origin https://github.com/chelosilvero78/masrai.git
+   53  git remote -v
+   54  git push -u origin master
+   55  git s
+   56  git init
+   57  git add .
+   58  git commit -m "primer commit"
+   59  git s
+   60  git lg
+   61  npm i
+   62  npm start
+   63  yarn install
+   64  npm install
+   65  npm start
+   66  ng serve --port 40
+   67  ng serve --port 4201
+   68  exit
+   69  git init
+   70  git s
+   71  git add .
+   72  ls
+   73  ll
+   74  cd 001
+   75  cd 001-librerias-como-instalar/
+   76  cd ..
+   77  git init
+   78  git s
+   79  git add .
+   80  git s
+   81  git commit -m "primer commit"
+   82  git lg
+   83  ll
+   84  git init
+   85  git s
+   86  git add .
+   87  git commit  -m "`primer commit"
+   88  git commit  -m "primer commit"
+   89  git s
+   90  git lg
+   91  yarn install
+   92  ng serve --port 4201
+   93  pwd
+   94  git init
+   95  git s
+   96  git add ..
+   97  git add .
+   98  git commit -m "mi primer commit en el trabajo-csc"
+   99  git s
+  100  git lg
+  101  ll
+  102  git s
+  103  git lg
+  104  git remote add origin https://github.com/chelosilvero78/ai-api.git
+  105  git push -u origin master
+  106  git push -u origin master
+  107  git s
+  108  git lg
+  109  wget -c --no-cookies --no-check-certificate --header "Cookie: oraclelicense=accept-securebackup-cookie"  https://download.oracle.com/otn-pub/java/jdk/12.0.2+10/e482c34c86bd4bf8b56c0b35558996b9/jdk-12.0.2_linux-x64_bin.tar.gz
+  110  ll
+  111  cd examples/
+  112  ll
+  113  cd ..
+  114  ll
+  115  vim package.json 
+  116  npm install
+  117  npm start
+  118  ll
+  119  cd ..
+  120  ll
+  121  cd design-system-master/
+  122  ll
+  123  yarn install
+  124  yarn upgrade
+  125  yarn upgrade
+  126  yarn install
+  127  yarn install
+  128  yarn start
+  129  yarn build
+  130  yarn install
+  131  ll
+  132  cd design-assets/
+  133  ll
+  134  cd ..
+  135  ll
+  136  cd examples/
+  137  ll
+  138  cd react-app/
+  139  ll
+  140  yarn install
+  141  yarn start
+  142  yarn start
+  143  find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;
+  144  ll
+  145  cd CMSgov/
+  146  ll
+  147  cd design-system-master/
+  148  ll
+  149  find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;
+  150  http-serverver
+  151  yarn install
+  152  yarn start
+  153  yarn install
+  154  git clone https://github.com/chelosilvero78/angular-versus-react.git
+  155  ll
+  156  cd angular-versus-react/
+  157  ll
+  158  cd angular/
+  159  ll
+  160  cd angularapp/
+  161  ll
+  162  yarn start
+  163  yarn install
+  164  yarn start
+  165  http-server
+  166  ll
+  167  mv a.jshintrca .jshintrc
+  168  ll
+  169  ll
+  170  yarn start
+  171  yarn install
+  172  yarn start
+  173  yarn install
+  174  yarn start
+  175  S
+  176  ll
+  177  git s
+  178  git init
+  179  git add .
+  180  git commit -m "primer commit"
+  181  git s
+  182  git log
+  183  git lg
+  184  git status
+  185  git remote add origin https://github.com/chelosilvero78/react-giphy-app.git
+  186  git push -u origin master
+  187  git s
+  188  git lg
+  189  git clone http://github.com/datasilk/kandu --recursive
+  190  ll
+  191  cd kandu/
+  192  ll
+  193  vim package.json 
+  194  npm install
+  195  yarn install
+  196  gulp default
+  197  yarn start
+  198  gulp default
+  199  ll
+  200  yarn install
+  201  yarn start
+  202  yarn start
+  203  git clone https://github.com/borakilicoglu/angular-trello
+  204  ll
+  205  cd angular-trello/
+  206  ll
+  207  yarn install
+  208  yarn dev
+  209  ll
+  210  git init
+  211  git add .
+  212  git commit -m "primer commit"
+  213  git s
+  214  git lg
+  215  git status
+  216  git log
+  217  git remote add origin https://github.com/chelosilvero78/cart-ecommerce-react.git
+  218  git remote
+  219  git remote -v
+  220  git push -u origin master
+  221  yarn dev
+  222  s
+  223  yarn dev
+  224  yarn dev
+  225  ll
+  226  yarn dev
+  227  yarn start
+  228  yarn dev
+  229  s
+  230  ll
+  231  yarn install
+  232  yarn dev
+  233  S
+  234  yarn dev
+  235  ll
+  236  yarn install
+  237  vim package.json 
+  238  yarn start
+  239  git clone https://gitlab.com/hendisantika/spring-boot-postgresql.git
+  240  ll
+  241  cd spring-boot-postgresql/
+  242  ll
+  243  mvn clean spring-boot:run
+  244  ll
+  245  cd ..
+  246  ll
+  247  cd spring-boot-postgresql/
+  248  ll
+  249  mvn clean spring-boot:run
+  250  mvn clean package
+  251  mvn clean package
+  252  java -jar target/spring-boot-postgresql-0.0.1-SNAPSHOT.jar
+  253  mvn clean package
+  254  mvn clean spring-boot:run
+  255  pwd
+  256  ll
+  257  ll
+  258  yarn install
+  259  yarn start
+  260  yarn install
+  261  ng serve -o
+  262  yarn start
+  263  yarn start
+  264  ll
+  265  cd ..
+  266  ll
+  267  cd facturacion-angular-spring-postgres-api
+  268  cd ..
+  269  ll
+  270  cd clientes-app
+  271  ll
+  272  yarn start
+  273  yarn start
+  274  ng serve --host 0.0.0.0
+  275  exit
+  276  ll
+  277  zsh
+  278  ll
+  279  exit
+  280  ll
+  281  cd paj-customer/
+  282  ll
+  283  ng serve -port 4201
+  284  ng serve --port 4201
+  285  yarn start
+  286  ip a
+  287  ipconfig
+  288  yarn start
+  289  yarn start
+  290  yarn start
+  291  ll
+  292  yarn start
+  293  yarn install
+  294  yarn start
+  295  npm run dev
+  296  npm run dev
+  297  npm run dev
+  298  npm run dev
+  299  yarn start
+  300  go run main.go 
+  301  go run main.go 
+  302  go run main.go 
+  303  npm start
+  304  npm start
+  305  npm run dev
+  306  npm run dev
+  307  yarn start
+  308  yarn run dev
+  309  yarn install
+  310  yarn start
+  311  npm run dev
+  312  yarn install
+  313  npm run dev
+  314  yarn upgrade
+  315  npm run dev
+  316  npm run dev --port 3001
+  317  npm run dev
+  318  next -p 3001 dev
+  319  next dev -p 3001
+  320  next -p 3001
+  321  npm run next dev -p3001
+  322  npm run next dev
+  323  npm run dev
+  324  next -p 3001 dev
+  325  npm run next -p 3001 dev
+  326  next
+  327  next -p 3001
+  328  dir
+  329  yarn run next -p 3001 dev
+  330  yarn start
+  331  yarn start
+  332  npm run dev
+  333  yarn dev -p 3001
+  334  lll
+  335  ll
+  336  ls --lis
+  337  ls -l
+  338  ls -lh
+  339  ls -h
+  340  ls -la
+  341  npm start
+  342  ll
+  343  vim package.json 
+  344  yarn start
+  345  vim package.json 
+  346  yarn start
+  347  yarn run start
+  348  npm start
+  349  react-script start
+  350  vim package.json 
+  351  react-scripts start
+  352  npm react-scripts start
+  353  npm react-scripts
+  354  npm start
+  355  yarn run start
+  356  yarn run dev
+  357  npm start
+  358  ll
+  359  npm start
+  360  npm start
+  361  exit
+  362  yarn start
+  363  set PORT=3006 && react-scripts start
+  364  npm start
+  365  ng server --host 0.0.0.0 --port 4200
+  366  ng serve --host 0.0.0.0 --port 4200
+  367  npm start --port 8080
+  368  node run start
+  369  node ./bin/www
+  370  llç
+  371  ll
+  372  cd bin
+  373  ll
+  374  cd www
+  375  cd ..
+  376  ll
+  377  ll
+  378  ll
+  379  ls
+  380  ll
+  381  cd .
+  382  cd ..
+  383  ll
+  384  cd ..
+  385  ll
+  386  cd ..
+  387  ll
+  388  npm run dev
+  389  cls
+  390  npm start --port 8080
+  391  npm start --port 3001
+  392  ls
+  393  cls
+  394  cls
+  395  npm run dev --port 3001
+  396  yarn start --port 3002
+  397  react-script start --port 3002
+  398  react-script start
+  399  yarn run dev --port 3003
+  400  yarn run dev --port 3002
+  401  npm run start --port 3002
+  402  yarn start --port 3003
+  403  yarn run dev --port 3005
+  404  ll
+  405  ng serve --host 0.0.0.0
+  406  yarn start --port 3001
+  407  ll
+  408  npm start
+  409  go run main.go 
+  410  go run main.go 
+  411  ng serve --host 0.0.0.0
+  412  ng serve --host csc5-187.sancristobal.local
+  413  npm start --host 0.0.0.0
+  414  yarn start --port 3001
+  415  pwd
+  416  ll
+  417  cls
+  418  pwd
+  419  npx create-next-app crmcliente
+  420  cd crmcliente/
+  421  ll
+  422  vscode .
+  423  ll
+  424  pwd
+  425  yarn dev
+  426  yarn start
+  427  npm start
+  428  pwd
+  429  node run start
+  430  npm start
+  431  npm i -g npm-check-updates
+  432  yarn start
+  433  npm install
+  434  npm test
+  435  git clone git@github.com:basir/node-react-ecommerce.git
+  436  git clone git@github.com:basir/node-react-ecommerce.git
+  437  npm start
+  438  npm install
+  439  npm start
+  440  ll
+  441  pwd
+  442  npm install
+  443  npm install
+  444  npm start
+  445  npm i
+  446  npm init
+  447  vim package.json
+  448  ll
+  449  npm install
+  450  npm start
+  451  npm start
+  452  ls -l
+  453  npm start
+  454  npm install -D --save jsx-control-statements
+  455  npm start
+  456  npm start
+  457  pwd
+  458  npm start
+  459  set PORT=3001 && react-scripts start
+  460  go run  main.go 
+  461  http-server
+  462  pwd
+  463  npm start
+  464  ng serve --host 0.0.0.0 --port 4201
+  465  ng serve --host 0.0.0.0 --port 4200
+  466  ng serve --host 0.0.0.0 --port 4200
+  467  npm start
+  468  npm start
+  469  ll
+  470  vim package.json 
+  471  npm start
+  472  npm -v
+  473  node -v
+  474  history
+  475  history > npm-terminal-history.txt
+  476  npm i -g npm-check-updates
+  477  npm install
+  478  npm start
+  479  s
+  480  npm start
+  481  npm start
+  482  wget -c https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/clone.bundle
+  483  yarn start
+  484  yarn dev
+  485  exit
+  486  find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;
+  487  git clone https://github.com/chelosilvero78/cart-helados-react-uang.git
+  488  ll
+  489  cd cart-helados-react-uang/
+  490  ll
+  491  yarn start
+  492  exit
+  493  ll
+  494  git init
+  495  git s
+  496  git add .
+  497  git commit -m "primer commit"
+  498  git s
+  499  git remote add origin https://github.com/chelosilvero78/crud-agenda-pern.git
+  500  git push -u origin master
+  501  npm run dev
+  502  history
+  503  history > terminal-history-csc187.txt
